@@ -19,20 +19,14 @@
 #### 3. Homepage
 
 ![my image](https://i.ibb.co/2dLQn97/3-anasayfa.png)
-    
-* User enters the car park to park in b1 zone
 ---
 #### 4. Login Control 
 
 ![my image](https://i.ibb.co/1GPZgpm/4-plakakayitlidegilhata.png)
-    
-* Cannot login if the number plate is not registered 
 ---
 #### 5. Login Control
 
 ![my image](https://i.ibb.co/F57Bxg8/5-dogruplakagiriyor.png)
-
-* Entry successful because the parking lot 'B1' is empty and the number plate '34AD011' is registered already.
 ---
 #### 6. Login Successful
 
